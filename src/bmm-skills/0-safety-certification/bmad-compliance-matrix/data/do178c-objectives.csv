@@ -1,0 +1,53 @@
+table,objective_id,objective_name,dal_a,dal_b,dal_c,dal_d,independence_a,independence_b,independence_c,independence_d
+A-2,A-2.1,Software development processes are defined,1,1,1,1,0,0,0,0
+A-2,A-2.2,Software development processes produce required outputs,1,1,1,1,0,0,0,0
+A-2,A-2.3,Software development processes comply with standards,1,1,1,1,0,0,0,0
+A-2,A-2.4,Software development process outputs are consistent,1,1,1,0,1,1,0,0
+A-2,A-2.5,Software development process outputs trace to requirements,1,1,1,0,1,0,0,0
+A-3,A-3.1,Software requirements are developed,1,1,1,1,0,0,0,0
+A-3,A-3.2,Software requirements are verifiable,1,1,1,1,1,0,0,0
+A-3,A-3.3,Software requirements conform to standards,1,1,1,1,1,1,0,0
+A-3,A-3.4,Software requirements trace to system requirements,1,1,1,1,0,0,0,0
+A-3,A-3.5,Software requirements are accurate and complete,1,1,1,1,1,1,1,0
+A-3,A-3.6,Software requirements are consistent,1,1,1,1,1,1,0,0
+A-3,A-3.7,Algorithm accuracy is verified,1,1,0,0,1,1,0,0
+A-3,A-3.8,Software requirements conform to hardware interfaces,1,1,1,0,1,0,0,0
+A-4,A-4.1,Source code complies with software architecture,1,1,1,1,0,0,0,0
+A-4,A-4.2,Source code complies with software requirements,1,1,1,1,0,0,0,0
+A-4,A-4.3,Source code conforms to coding standards,1,1,1,1,1,1,0,0
+A-4,A-4.4,Source code is traceable to software requirements,1,1,1,0,0,0,0,0
+A-4,A-4.5,Source code is verifiable,1,1,0,0,1,1,0,0
+A-4,A-4.6,Source code conforms to programming language constraints,1,1,1,0,1,0,0,0
+A-4,A-4.7,Software integration process produces verified outputs,1,1,1,1,0,0,0,0
+A-4,A-4.8,Software integration process outputs comply with standards,1,1,1,0,1,1,0,0
+A-4,A-4.9,Software integration process outputs are consistent,1,1,1,0,1,0,0,0
+A-4,A-4.10,Software integration process outputs trace to requirements,1,1,1,0,0,0,0,0
+A-5,A-5.1,Software verification process is defined,1,1,1,1,0,0,0,0
+A-5,A-5.2,Software verification procedures are developed,1,1,1,1,0,0,0,0
+A-5,A-5.3,Software verification results are recorded,1,1,1,1,0,0,0,0
+A-5,A-5.4,Software verification results are reviewed,1,1,1,1,1,1,1,0
+A-5,A-5.5,Software verification results are traceable to requirements,1,1,1,0,0,0,0,0
+A-5,A-5.6,Software verification provides coverage analysis,1,1,1,0,1,1,0,0
+A-5,A-5.7,Software verification coverage analysis is complete,1,1,1,0,1,0,0,0
+A-5,A-5.8,Software verification coverage of requirements,1,1,1,0,0,0,0,0
+A-5,A-5.9,Software verification coverage of software structure,1,1,0,0,1,1,0,0
+A-6,A-6.1,Software configuration management process is defined,1,1,1,1,0,0,0,0
+A-6,A-6.2,Configuration items are identified,1,1,1,1,0,0,0,0
+A-6,A-6.3,Baselines are established,1,1,1,1,0,0,0,0
+A-6,A-6.4,Configuration status accounting is maintained,1,1,1,1,0,0,0,0
+A-6,A-6.5,Configuration control is established,1,1,1,1,0,0,0,0
+A-6,A-6.6,Configuration control of engineering data,1,1,1,1,0,0,0,0
+A-6,A-6.7,Software configuration items are archived,1,1,1,1,0,0,0,0
+A-6,A-6.8,Software configuration items are retrievable,1,1,1,1,0,0,0,0
+A-7,A-7.1,Software quality assurance process is defined,1,1,1,1,0,0,0,0
+A-7,A-7.2,Software quality assurance process is conducted,1,1,1,1,0,0,0,0
+A-7,A-7.3,Software quality assurance process produces required outputs,1,1,1,1,0,0,0,0
+A-7,A-7.4,Software quality assurance evaluates software development processes,1,1,1,1,1,1,1,0
+A-7,A-7.5,Software quality assurance evaluates software development outputs,1,1,1,1,1,1,1,0
+A-7,A-7.6,Software quality assurance ensures compliance,1,1,1,1,1,1,1,0
+A-8,A-8.1,Certification liaison process is defined,1,1,1,1,0,0,0,0
+A-8,A-8.2,Certification liaison process is conducted,1,1,1,1,0,0,0,0
+A-8,A-8.3,Software certification liaison records are maintained,1,1,1,1,0,0,0,0
+A-9,A-9.1,Tool qualification process is defined,1,1,1,1,0,0,0,0
+A-9,A-9.2,Tool qualification process is conducted,1,1,1,1,0,0,0,0
+A-9,A-9.3,Tool qualification results are recorded,1,1,1,1,0,0,0,0

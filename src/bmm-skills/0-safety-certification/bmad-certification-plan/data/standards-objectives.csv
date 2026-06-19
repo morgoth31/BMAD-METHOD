@@ -1,0 +1,64 @@
+standard,objective_id,objective_name,dal_a,dal_b,dal_c,dal_d,independence_required
+DO-178C,A-2-1,"Software development process defined",Y,Y,Y,Y,N
+DO-178C,A-2-2,"Software development process documented",Y,Y,Y,Y,N
+DO-178C,A-2-3,"Software development process followed",Y,Y,Y,Y,N
+DO-178C,A-2-4,"Software development process transition criteria defined",Y,Y,Y,N,N
+DO-178C,A-2-5,"Software development process outputs verified",Y,Y,Y,N,Y
+DO-178C,A-2-6,"Software development process outputs consistent",Y,Y,Y,N,Y
+DO-178C,A-2-7,"Software development standards defined",Y,Y,Y,Y,N
+DO-178C,A-2-8,"Software development standards followed",Y,Y,Y,Y,N
+DO-178C,A-3-1,"Software requirements developed from system requirements",Y,Y,Y,Y,N
+DO-178C,A-3-2,"Software requirements are traceable",Y,Y,Y,Y,N
+DO-178C,A-3-3,"Software requirements are verifiable",Y,Y,Y,Y,N
+DO-178C,A-3-4,"Software requirements are unique",Y,Y,Y,Y,N
+DO-178C,A-3-5,"Software requirements are unambiguous",Y,Y,Y,Y,N
+DO-178C,A-3-6,"Software requirements reviewed for accuracy",Y,Y,Y,N,Y
+DO-178C,A-3-7,"Software requirements verified against system requirements",Y,Y,Y,N,Y
+DO-178C,A-3-8,"Derived requirements identified and documented",Y,Y,Y,N,N
+DO-178C,A-3-9,"Software requirements reviewed for compliance",Y,Y,Y,N,Y
+DO-178C,A-4-1,"Software architecture developed",Y,Y,Y,Y,N
+DO-178C,A-4-2,"Software architecture reviewed for compliance",Y,Y,Y,N,Y
+DO-178C,A-4-3,"Software low-level requirements developed",Y,Y,Y,Y,N
+DO-178C,A-4-4,"Software low-level requirements reviewed for compliance",Y,Y,Y,N,Y
+DO-178C,A-4-5,"Software design traceable to requirements",Y,Y,Y,Y,N
+DO-178C,A-4-6,"Software design verified for consistency",Y,Y,Y,N,Y
+DO-178C,A-4-7,"Derived requirements identified",Y,Y,Y,N,N
+DO-178C,A-4-8,"Software architecture reviewed for robustness",Y,Y,N,N,Y
+DO-178C,A-5-1,"Source code complies with coding standards",Y,Y,Y,Y,N
+DO-178C,A-5-2,"Source code traceable to low-level requirements",Y,Y,Y,Y,N
+DO-178C,A-5-3,"Source code reviewed for compliance",Y,Y,Y,N,Y
+DO-178C,A-5-4,"Source code reviewed for robustness",Y,Y,N,N,Y
+DO-178C,A-5-5,"Source code verified for consistency",Y,Y,Y,N,Y
+DO-178C,A-5-6,"Source code verified for correctness",Y,Y,N,N,Y
+DO-178C,A-5-7,"Source code complies with software architecture",Y,Y,Y,Y,N
+DO-178C,A-5-8,"Source code verified for non-determinism",Y,Y,N,N,N
+DO-178C,A-6-1,"Software verification process defined",Y,Y,Y,Y,N
+DO-178C,A-6-2,"Software verification process documented",Y,Y,Y,Y,N
+DO-178C,A-6-3,"Software requirements verified",Y,Y,Y,Y,Y
+DO-178C,A-6-4,"Software architecture verified",Y,Y,Y,N,Y
+DO-178C,A-6-5,"Source code verified",Y,Y,Y,N,Y
+DO-178C,A-6-6,"Software integration process verified",Y,Y,Y,Y,N
+DO-178C,A-6-7,"Test coverage of software requirements achieved",Y,Y,Y,Y,Y
+DO-178C,A-6-8,"Test coverage of software structure achieved",Y,Y,Y,N,Y
+DO-178C,A-6-9,"Test coverage of decision structure achieved",Y,Y,N,N,Y
+DO-178C,A-6-10,"Test coverage of modified condition achieved",Y,N,N,N,Y
+DO-178C,A-7-1,"Configuration management process defined",Y,Y,Y,Y,N
+DO-178C,A-7-2,"Configuration management process documented",Y,Y,Y,Y,N
+DO-178C,A-7-3,"Configuration items identified",Y,Y,Y,Y,N
+DO-178C,A-7-4,"Configuration items controlled",Y,Y,Y,Y,N
+DO-178C,A-7-5,"Configuration status accounting maintained",Y,Y,Y,Y,N
+DO-178C,A-7-6,"Configuration audits conducted",Y,Y,Y,N,Y
+DO-178C,A-7-7,"Software load control maintained",Y,Y,Y,Y,N
+DO-178C,A-7-8,"Software lifecycle environment control maintained",Y,Y,Y,Y,N
+DO-178C,A-7-9,"Configuration management records retained",Y,Y,Y,Y,N
+DO-178C,A-8-1,"Quality assurance process defined",Y,Y,Y,Y,N
+DO-178C,A-8-2,"Quality assurance process documented",Y,Y,Y,Y,N
+DO-178C,A-8-3,"Quality assurance process followed",Y,Y,Y,Y,N
+DO-178C,A-8-4,"Quality assurance transition criteria compliance",Y,Y,Y,N,Y
+DO-178C,A-8-5,"Quality assurance conformity review conducted",Y,Y,Y,N,Y
+DO-178C,A-8-6,"Quality assurance records maintained",Y,Y,Y,Y,N
+DO-178C,A-9-1,"Certification liaison process defined",Y,Y,Y,Y,N
+DO-178C,A-9-2,"Certification liaison process documented",Y,Y,Y,Y,N
+DO-178C,A-9-3,"PSAC submitted to certification authority",Y,Y,Y,Y,N
+DO-178C,A-9-4,"Certification coordination maintained",Y,Y,Y,Y,N
+DO-178C,A-9-5,"Certification authority issues resolved",Y,Y,Y,Y,N

@@ -1,0 +1,6 @@
+level,name,description,example,DO-178C_DAL,IEC_61508_SIL,ECSS_Category
+1,Catastrophic,Results in multiple fatalities or system loss,Uncontrolled release of toxic gas causing multiple deaths; aircraft crash,A,4,A
+2,Critical,Results in major injury or single fatality or major system damage,Brake failure causing serious collision; single occupant fatality,B,3,B
+3,Major,Results in minor injury or significant system degradation,Overtemperature causing equipment damage requiring replacement; minor burn,C,2,C
+4,Minor,Results in negligible injury or minor system degradation,Warning system false alarm; cosmetic equipment damage,D,1,D
+5,Negligible,Results in no injury or trivial system degradation,Minor display flicker; negligible wear on non-critical component,E,N/A,N/A

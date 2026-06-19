@@ -1,0 +1,41 @@
+gate_type,criterion_id,criterion_description,applicable_standards,evidence_required
+PDR,PDR-01,Requirements are documented and traceable to system requirements,"DO-178C 11.2; IEC 61508 Part 3; ECSS-Q-ST-80C",Software Requirements Specification; Requirements Traceability Matrix
+PDR,PDR-02,Software architecture is defined and documented,"DO-178C 11.2; IEC 61508 Part 3; ECSS-Q-ST-80C",Software Architecture Document; Design Description
+PDR,PDR-03,Software architecture is traceable to software requirements,"DO-178C 11.2; IEC 61508 Part 3",Architecture-to-Requirements Traceability Matrix
+PDR,PDR-04,Design decisions are documented with rationale,"DO-178C 11.2; ECSS-Q-ST-80C",Design Decision Records; Trade Studies
+PDR,PDR-05,Interface definitions are complete and consistent,"DO-178C 11.2; ECSS-Q-ST-80C",Interface Control Documents; Interface Requirements Specification
+PDR,PDR-06,Software development standards are defined and documented,"DO-178C 11.2; ECSS-Q-ST-80C",Software Development Plan; Coding Standards
+PDR,PDR-07,Software development environment is defined,"DO-178C 11.2; ECSS-Q-ST-80C",Software Development Environment Description; Tool Qualification Data
+PDR,PDR-08,Hazard analysis is complete and traceable to requirements,"DO-178C 11.2; IEC 61508 Part 1; ECSS-Q-ST-80C",Hazard Analysis Report; Safety Assessment
+PDR,PDR-09,Configuration management process is established,"DO-178C 11.4; IEC 61508 Part 3; ECSS-Q-ST-80C",Configuration Management Plan; Configuration Item List
+PDR,PDR-10,Quality assurance process is defined,"DO-178C 11.4; IEC 61508 Part 1; ECSS-Q-ST-80C",Software Quality Assurance Plan; QA Records
+TRR,TRR-01,Test plans are complete and reviewed,"DO-178C 11.6; IEC 61508 Part 7; ECSS-Q-ST-80C",Software Test Plan; Test Procedures
+TRR,TRR-02,Test environment is configured and validated,"DO-178C 11.6; IEC 61508 Part 7; ECSS-Q-ST-80C",Test Environment Description; Environment Validation Report
+TRR,TRR-03,Test procedures are traceable to requirements,"DO-178C 11.6; ECSS-Q-ST-80C",Requirements-to-Test Traceability Matrix
+TRR,TRR-04,Test procedures cover all software requirements,"DO-178C 11.6; ECSS-Q-ST-80C",Test Coverage Analysis; Requirements Coverage Matrix
+TRR,TRR-05,Structural coverage analysis approach is defined,"DO-178C 11.6",Structural Coverage Analysis Plan; Coverage Tool Qualification
+TRR,TRR-06,Software integration testing approach is defined,"DO-178C 11.6; ECSS-Q-ST-80C",Integration Test Plan; Integration Test Procedures
+TRR,TRR-07,Regression testing approach is defined,"DO-178C 11.6; IEC 61508 Part 7",Regression Test Plan; Regression Test Procedures
+TRR,TRR-08,Test team is trained and qualified,"DO-178C 11.6; ECSS-Q-ST-80C",Training Records; Competency Assessment
+TRR,TRR-09,Non-conformance process is established,"DO-178C 11.6; IEC 61508 Part 3; ECSS-Q-ST-80C",Problem Report Process; Non-Conformance Procedures
+TRR,TRR-10,Test data is under configuration control,"DO-178C 11.6; ECSS-Q-ST-80C",Configuration Management Records; Test Baseline
+QR,QR-01,All test cases have been executed,"DO-178C 11.8; IEC 61508 Part 7; ECSS-Q-ST-80C",Test Execution Records; Test Results
+QR,QR-02,Test results are documented and reviewed,"DO-178C 11.8; ECSS-Q-ST-80C",Test Reports; Test Review Records
+QR,QR-03,Requirements coverage is complete,"DO-178C 11.8; ECSS-Q-ST-80C",Requirements Coverage Matrix; Coverage Analysis Report
+QR,QR-04,Structural coverage goals are met,"DO-178C 11.8",Structural Coverage Report; Coverage Analysis
+QR,QR-05,All non-conformances are resolved or documented,"DO-178C 11.8; IEC 61508 Part 7; ECSS-Q-ST-80C",Problem Reports; Non-Conformance Records
+QR,QR-06,Software configuration is under control,"DO-178C 11.8; ECSS-Q-ST-80C",Configuration Status Accounting; Baseline Records
+QR,QR-07,Verification and validation evidence is complete,"DO-178C 11.8; IEC 61508 Part 7; ECSS-Q-ST-80C",V&V Report; Verification Records
+QR,QR-08,Traceability is demonstrated end-to-end,"DO-178C 11.8; ECSS-Q-ST-80C",Traceability Matrix; Traceability Verification Records
+QR,QR-09,Archived software matches tested software,"DO-178C 11.8; ECSS-Q-ST-80C",Build Records; Archive Verification
+QR,QR-10,Test environment is representative of target environment,"DO-178C 11.8; IEC 61508 Part 7; ECSS-Q-ST-80C",Environment Validation Report; Environmental Qualification Data
+FQR,FQR-01,Complete evidence package is assembled,"DO-178C 11.9; IEC 61508 Part 1; ECSS-Q-ST-80C",Certification Evidence Package; All V&V Artifacts
+FQR,FQR-02,All compliance objectives are satisfied,"DO-178C 11.9; IEC 61508 Part 1; ECSS-Q-ST-80C",Compliance Matrix; Objective Evidence
+FQR,FQR-03,All non-conformances are closed,"DO-178C 11.9; ECSS-Q-ST-80C",Problem Report Closure Records; Non-Conformance Closure Evidence
+FQR,FQR-04,Software life cycle data is complete,"DO-178C 11.9; ECSS-Q-ST-80C",Complete SDL Data Package; Data Item Checklist
+FQR,FQR-05,Configuration management records are complete,"DO-178C 11.9; ECSS-Q-ST-80C",CM Records; Baseline Documentation
+FQR,FQR-06,Quality assurance records are complete,"DO-178C 11.9; IEC 61508 Part 1; ECSS-Q-ST-80C",QA Records; Audit Reports
+FQR,FQR-07,Certification authority coordination is documented,"DO-178C 11.9; ECSS-Q-ST-80C",Certification Liaison Records; Authority Correspondence
+FQR,FQR-08,Tool qualification is complete,"DO-178C 11.9",Tool Qualification Data; Tool Qualification Reports
+FQR,FQR-09,Operational readiness is demonstrated,"IEC 61508 Part 1; ECSS-Q-ST-80C",Operational Readiness Review; Site Acceptance Records
+FQR,FQR-10,Certification submission package is prepared,"DO-178C 11.9; IEC 61508 Part 1; ECSS-Q-ST-80C",Submission Package; Certification Checklist

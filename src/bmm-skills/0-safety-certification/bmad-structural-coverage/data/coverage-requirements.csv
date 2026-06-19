@@ -1,0 +1,5 @@
+dal_level,coverage_type,description,do178c_objective,pass_criteria
+A,MCDC,"Modified Condition/Decision Coverage: Every condition in a decision must be shown to independently affect the outcome of the decision, and every entry point and every point of exit must be invoked at least once.",A-6,"100% of conditions independently affect decision outcomes; 100% of decision outcomes (True and False) taken; 100% of statements executed"
+B,DC,"Decision Coverage: Every decision in the program must have taken all possible outcomes (True and False) at least once, and every entry point and exit point must be invoked at least once.",A-5,"100% of decision outcomes (True and False) taken; 100% of statements executed"
+C,SC,"Statement Coverage: Every statement in the program must have been invoked at least once.",A-4,"100% of statements executed"
+D,SC,"Statement Coverage: Every statement in the program must have been invoked at least once.",A-4,"100% of statements executed"

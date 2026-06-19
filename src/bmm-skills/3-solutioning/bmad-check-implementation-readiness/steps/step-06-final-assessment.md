@@ -75,6 +75,18 @@ Append to {outputFile}:
 
 [List most critical issues that must be addressed]
 
+### Safety & Certification Readiness
+
+If this is a safety-critical project, assess:
+- Hazard analysis completed? [Yes/No/N-A]
+- Safety requirements derived and allocated? [Yes/No/N-A]
+- Certification plan in place? [Yes/No/N-A]
+- Traceability matrix established? [Yes/No/N-A]
+- Safety requirements covered in architecture? [Yes/No/N-A]
+- Safety requirements covered in epics/stories? [Yes/No/N-A]
+- V&V independence requirements identified? [Yes/No/N-A]
+- Gate review schedule defined? [Yes/No/N-A]
+
 ### Recommended Next Steps
 
 1. [Specific action item 1]

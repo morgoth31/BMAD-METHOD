@@ -1,0 +1,6 @@
+severity\likelihood,Frequent,Probable,Occasional,Remote,Improbable,Incredible
+Catastrophic,High;SIL4/DAL-A,High;SIL4/DAL-A,High;SIL3/DAL-B,High;SIL3/DAL-B,Medium;SIL2/DAL-C,Medium;SIL2/DAL-C
+Critical,High;SIL4/DAL-A,High;SIL3/DAL-B,Medium;SIL2/DAL-C,Medium;SIL2/DAL-C,Medium;SIL1/DAL-D,Low;SIL1/DAL-D
+Major,Medium;SIL3/DAL-B,Medium;SIL2/DAL-C,Medium;SIL1/DAL-D,Low;SIL1/DAL-D,Low;No-SIL/E,Low;No-SIL/E
+Minor,Medium;SIL2/DAL-C,Low;SIL1/DAL-D,Low;No-SIL/E,Low;No-SIL/E,Low;No-SIL/E,Negligible;No-SIL
+Negligible,Low;SIL1/DAL-D,Low;No-SIL/E,Low;No-SIL/E,Negligible;No-SIL,Negligible;No-SIL,Negligible;No-SIL
