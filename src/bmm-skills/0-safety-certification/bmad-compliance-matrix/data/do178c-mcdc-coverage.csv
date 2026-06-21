@@ -1,0 +1,8 @@
+dal_level,coverage_type,required,independence,notes
+DAL-A,MC/DC (Modified Condition/Decision Coverage),required,yes,Every condition in every decision must be shown to independently affect the outcome
+DAL-A,DC (Decision Coverage),required,yes,Every decision has taken all possible outcomes
+DAL-A,SC (Statement Coverage),required,no,Every statement has been invoked at least once
+DAL-B,DC (Decision Coverage),required,yes,Every decision has taken all possible outcomes
+DAL-B,SC (Statement Coverage),required,no,Every statement has been invoked at least once
+DAL-C,SC (Statement Coverage),required,yes,Every statement has been invoked at least once
+DAL-D,SC (Statement Coverage),required,no,Every statement has been invoked at least once

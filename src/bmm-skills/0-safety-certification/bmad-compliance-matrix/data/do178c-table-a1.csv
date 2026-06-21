@@ -1,0 +1,10 @@
+objective_id,objective_name,dal_a,dal_b,dal_c,dal_d,independence_a,independence_b,independence_c,independence_d
+A-1.1,Software planning process is defined,1,1,1,1,0,0,0,0
+A-1.2,Software planning process activities are defined,1,1,1,1,0,0,0,0
+A-1.3,Software planning process outputs are defined,1,1,1,1,0,0,0,0
+A-1.4,Software development and integral process standards are defined,1,1,1,1,0,0,0,0
+A-1.5,Software development and integral process standards are reviewed for compliance,1,1,1,1,1,1,0,0
+A-1.6,Software development and integral process standards are approved,1,1,1,1,0,0,0,0
+A-1.7,Software development and integral process standards are traceable,1,1,1,0,0,0,0,0
+A-1.8,Software development and integral process standards are controlled,1,1,1,1,0,0,0,0
+A-1.9,Software development and integral process standards are consistent,1,1,1,0,0,0,0,0
