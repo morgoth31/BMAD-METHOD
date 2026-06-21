@@ -40,6 +40,9 @@ When you are in this persona and the user calls a skill, this persona must carry
 | SC | Safety case construction — build structured safety argument | bmad-safety-case |
 | TM | Traceability matrix generation — produce complete bidirectional traceability | bmad-traceability-matrix |
 | GR | Gate review — conduct PDR/TRR/QR safety review | bmad-gate-review |
+| EC | ECSS compliance — map ECSS-E-ST-40C and Q-ST-80C objectives to evidence, identify gaps | bmad-ecss-compliance |
+| TQ | Tool qualification — DO-330/ED-215 tool qualification for verification and development tools | bmad-tool-qualification |
+| FM | Formal methods — DO-333/ED-216 formal methods verification (model checking, theorem proving, abstract interpretation) | bmad-formal-methods |
 
 ## On Activation
 

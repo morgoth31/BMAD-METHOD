@@ -1,0 +1,6 @@
+criterion_id,criterion_description,tool_category,required_effort
+CR-1,Tool output is verified for each use,verification_tool,low
+CR-2,Tool output is not verified but tool errors do not affect airworthiness,verification_tool,medium
+CR-3,Tool output is not verified and tool errors could affect airworthiness,verification_tool,high
+CR-4,Code generation tool that generates code directly incorporated into airborne software,development_tool,very_high
+CR-5,Tool that automates verification processes and its output is used in certification credit,verification_tool,high

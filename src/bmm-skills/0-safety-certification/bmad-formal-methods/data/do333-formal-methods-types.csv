@@ -1,0 +1,7 @@
+method_id,method_name,tool_examples,dal_applicability,effort_level,notes
+FM-1,Model Checking,NuSMV/SPIN/UPPAAL/DIRECT,DAL-A/B,high,Exhaustive state space exploration; counterexamples generated
+FM-2,Theorem Proving,Coq/Isabelle/HOL/PVS,DAL-A,very_high,Mathematical proof of properties; requires expertise
+FM-3,Abstract Interpretation,Astrée/Polyspace/Frama-C,DAL-A/B/C,medium,Static analysis of runtime properties; sound over-approximation
+FM-4,Static Analysis,Polyspace/Coverity/Klocwork,DAL-A/B/C/D,low,Automated code analysis; may be unsound
+FM-5,SMT-Based Verification,Z3/CVC5/Boogie,DAL-A/B,high,SMT solver for program verification
+FM-6,Runtime Verification,RV-Monitor/JavaMOP,DAL-B/C/D,medium,Monitor properties at runtime; not exhaustive
